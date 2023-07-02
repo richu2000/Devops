@@ -35,7 +35,7 @@ To use the script, follow these steps:
 
     - *Toggle (start/stop) a WordPress site:*  
       bash
-      ./wordpress.sh toggle <site_name>
+      ./rt.sh toggle <site_name>
       
       Replace `<site_name>` with the name of the WordPress site you want to toggle.
 
